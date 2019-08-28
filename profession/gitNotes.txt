@@ -1,2 +1,6 @@
 1.从github克隆项目 
     git clone 项目地址
+2.将要提交的内容加入暂存区
+    git add 内容
+3.提交
+    git commit -m "说明"
